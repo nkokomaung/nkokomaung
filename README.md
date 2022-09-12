@@ -6,7 +6,7 @@
 
 - 🔭 I’m a System Engineer and mostly working on Redhat Linux/Oracle & Telecom Infra.
 - 🌱 I’m currently learning <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-- 💬 We can get in touch and discuss anything related to DevOps, AWS, Kubernetes and Laravel.
+- 💬 We can get in touch and discuss anything related to Linux, Oracle, Python and OSS/BSS.
 - 📫 How to reach me: [@KoKoMaung](https://www.linkedin.com/in/nkokomaung/) 
 - ⚡ Fun fact: I love coffee and I like to break things...
 
